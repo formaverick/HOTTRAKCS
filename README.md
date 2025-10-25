@@ -5,6 +5,8 @@
 - 문구·리빙 쇼핑몰(핫트랙스 스타일) 랜딩/서브 페이지 데모입니다.
 - 정적 JSON을 jQuery로 비동기 로드하여 배너, 추천, 랭킹, 기획전 등 섹션을 동적으로 구성합니다.
 
+<p align="center"><img width="746" height="926" alt="hottracks" src="https://github.com/user-attachments/assets/313821f3-bcf8-4500-b5c7-8cfc20b00335" /></p>
+
 ## 기술 스택
 
 - HTML5, CSS3
